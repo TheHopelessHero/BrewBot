@@ -26,7 +26,34 @@ Client.on('message', (message) => {
 
     if(message.content == 'Another please!') {
         message.reply('Coo! ☕~');
+    } else
+    if(message.content == 'another please!') {
+        message.reply('Coo! ☕~');
     }
-
+    if(message.content == 'another please') {
+        message.reply('Coo! ☕~');
+    } else
+    if(message.content == 'Hey, BrewBot?') {
+        message.reply('Coo?');
+    }
+    if(message.content == 'Can i have another?') {
+        message.reply('Coo! ☕~');
+    } else
+    if(message.content == 'can i have another?') {
+        message.reply('Coo! ☕~');
+    }
+    if(message.content == 'Coffee please!') {
+        message.reply('Coo! ☕~');
+    } else
+    if(message.content == 'coffee please!') {
+        message.reply('Coo! ☕~');
+    }
+    if(message.content == 'Can I have one more?') {
+        message.reply('Coo! ☕~');
+    } else
+    if(message.content == 'can i have one more?') {
+        message.reply('Coo! ☕~');
+    }
+    
 });
 Client.login(process.env.BOT_TOKEN);
