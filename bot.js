@@ -16,7 +16,7 @@ Client.on('guildMemberAdd', member => {
     Dearest, ${member} feel free to make your way over to the <#507890532949688321> or <#507890270801756163> channels to register your fc and fill out our membership details.
     After that, head on over to the <#507893227635081226> library to brush up on our policies and get information on navigating the channels. 
     If you're feeling eager, you can check out the 
-    <#507894142278303771> hall to see the on-going events.
+    events hall to see the on-going festivities.
     
     I'll go brew a fresh pot of coffee. Let me know when you'd like another...
     Coo. ☕~`);
