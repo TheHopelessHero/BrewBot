@@ -13,10 +13,9 @@ Client.on('guildMemberAdd', member => {
     if (!channel) return;
     // Send the message, mentioning the member
     channel.send(`Welcome to the The Roost Café, 
-    Dearest, ${member} feel free to make your way over to the <#507890532949688321> or <#507890270801756163> channels to register your fc and fill out our membership details.
-    After that, head on over to the <#507893227635081226> library to brush up on our policies and get information on navigating the channels. 
-    If you're feeling eager, you can check out the 
-    events hall to see the on-going festivities.
+    Dearest, ${member} feel free to make your way over to the <#608487490671869976> are for Animal Crossing: New Leaf Mayors or grab your <#608487294097162241> for our Animal Crossing: Pocket Camp Campers.
+    If you get lost, the <#608502431034245175> center has a map and information navigating the channels. 
+    If you need any advice or help please get in touch with one of our <#608512994585870337> members.
     
     I'll go brew a fresh pot of coffee. Let me know when you'd like another...
     Coo. ☕~`);
