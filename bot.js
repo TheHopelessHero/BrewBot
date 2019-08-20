@@ -13,7 +13,7 @@ Client.on('guildMemberAdd', member => {
     if (!channel) return;
     // Send the message, mentioning the member
     channel.send(`Welcome to the The Roost Café, 
-    Dearest, ${member} feel free to make your way over to the <#608487490671869976> are for Animal Crossing: New Leaf Mayors or grab your <#608487294097162241> for our Animal Crossing: Pocket Camp Campers.
+    Dearest, ${member} feel free to make your way over to the <#608487490671869976> area for Animal Crossing: New Leaf Mayors or grab your <#608487294097162241> for our Animal Crossing: Pocket Camp Campers.
     If you get lost, the <#608502431034245175> center has a map and information navigating the channels. 
     If you need any advice or help please get in touch with one of our <#608512994585870337> members.
     
